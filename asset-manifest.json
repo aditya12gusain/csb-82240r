@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aditya12gusain.github.io/csb-82240r/static/css/main.1ab1d8e6.chunk.css",
+    "main.js": "https://aditya12gusain.github.io/csb-82240r/static/js/main.f758def2.chunk.js",
+    "main.js.map": "https://aditya12gusain.github.io/csb-82240r/static/js/main.f758def2.chunk.js.map",
+    "runtime-main.js": "https://aditya12gusain.github.io/csb-82240r/static/js/runtime-main.699dd2fa.js",
+    "runtime-main.js.map": "https://aditya12gusain.github.io/csb-82240r/static/js/runtime-main.699dd2fa.js.map",
+    "static/js/2.cb7f94c3.chunk.js": "https://aditya12gusain.github.io/csb-82240r/static/js/2.cb7f94c3.chunk.js",
+    "static/js/2.cb7f94c3.chunk.js.map": "https://aditya12gusain.github.io/csb-82240r/static/js/2.cb7f94c3.chunk.js.map",
+    "index.html": "https://aditya12gusain.github.io/csb-82240r/index.html",
+    "static/css/main.1ab1d8e6.chunk.css.map": "https://aditya12gusain.github.io/csb-82240r/static/css/main.1ab1d8e6.chunk.css.map",
+    "static/js/2.cb7f94c3.chunk.js.LICENSE.txt": "https://aditya12gusain.github.io/csb-82240r/static/js/2.cb7f94c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.699dd2fa.js",
+    "static/js/2.cb7f94c3.chunk.js",
+    "static/css/main.1ab1d8e6.chunk.css",
+    "static/js/main.f758def2.chunk.js"
+  ]
+}
